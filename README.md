@@ -6,6 +6,26 @@ Cucumber allows users to define test scenarios in a simple and structured format
 
 Cucumber also provides integration with various programming languages such as Java, Ruby, and Python, making it a flexible and versatile tool for test automation. It is widely used in agile software development processes where collaboration and communication between team members are key.
 
+## Technoloy used:
+- Intellij IDEA
+- Java
+- Junit
+- Selenium
+- Cucumber
+- Maven
+
+## Langueges
+- Java
+
+## How to run this project:
+- Clone this project
+- Open with Intelji Idea
+
+## Prerequisites:
+- Install Intellij IDEA (Comunity Edition)
+- Install jdk or any LTS version
+- Configure ANDROID_HOME, JAVA_HOME and GRADLE_HOME as well as stable internet connection
+
 
 
 
